@@ -112,10 +112,10 @@ suhani = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4B896?style=for-the-badge&logo=linkedin&logoColor=5C3D20)](https://linkedin.com/in/suhanisahoo)
-[![GitHub](https://img.shields.io/badge/GitHub-EDD9C6?style=for-the-badge&logo=github&logoColor=5C3D20)](https://github.com/suhanisahoo)
-[![Email](https://img.shields.io/badge/Email-F5EDE3?style=for-the-badge&logo=gmail&logoColor=C4715A)](mailto:suhani@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-E8CBB0?style=for-the-badge&logo=firefox&logoColor=5C3D20)](https://suhanisahoo.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4B896?style=for-the-badge&logo=linkedin&logoColor=5C3D20)](https://www.linkedin.com/in/suhani-sahoo-172953233/)
+[![GitHub](https://img.shields.io/badge/GitHub-EDD9C6?style=for-the-badge&logo=github&logoColor=5C3D20)](https://github.com/suhanisahoo23)
+[![Email](https://img.shields.io/badge/Email-F5EDE3?style=for-the-badge&logo=gmail&logoColor=C4715A)](mailto:suhanisahoo05@gmail.com)
+
 
 </div>
 
